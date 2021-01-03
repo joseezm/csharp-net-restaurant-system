@@ -1,0 +1,231 @@
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\CheckingOut\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+C:\Users\Jose\Documents\UCSP\2019-R\IS2\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+C:\Users\José Eduardo\Desktop\Proyecto Restaurante\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\SR\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+D:\Computer Science\Software 2\GIIIT\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\GITProyecto90%\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+C:\Users\José Eduardo\Desktop\1.6.7\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\ultimoGG\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+C:\Users\Jose\Documents\GitHub\proyecto\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.verReservas.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe.config
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\SistemaRestaurant.pdb
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\bin\Debug\MaterialSkin.dll
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csprojAssemblyReference.cache
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.cobrarBoleta.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.comprarSuministros.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.detallesPedido.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.emitirBoleta.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.finalizarPedido.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Form1.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionCarta.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.gestionReserva.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.login.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.nosirve.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuCaja.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChef.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuChefBartender.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.menuReserva.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.Properties.Resources.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.tomarPedido.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.verReservas.resources
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.GenerateResource.cache
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.csproj.CopyComplete
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.exe
+D:\Computer Science\Software 2\PresentacionFinal\IS2\SistemaRestaurant\SistemaRestaurant\obj\Debug\SistemaRestaurant.pdb

@@ -1,2 +1,2 @@
-# csharp-net-restaurant-system
-Restaurant management system made in .net and c #
+# IS2
+Software 2 UCSP
